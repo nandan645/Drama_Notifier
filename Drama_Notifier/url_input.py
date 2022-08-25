@@ -1,0 +1,2 @@
+url = input("")
+print(url)

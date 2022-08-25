@@ -1,0 +1,1 @@
+alias drama_url='/usr/bin/python /user/Path_to_folder/Drama_Notifier/url_input.py > /user/Path_to_folder/Drama_Notifier/current_drama'
