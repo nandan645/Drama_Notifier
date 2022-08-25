@@ -38,7 +38,8 @@ alias drama_url='/usr/bin/python /user/Path_to_folder/Drama_Notifier/url_input.p
   url = open('/user/Path_to_folder/Drama_Notifier/current_drama', 'r').read()
   ```
 #### Screenshot Preview
-[Click here](url "Drama_Updates_Preview.jpg")
+
+![drama_notifier_preview](https://user-images.githubusercontent.com/72310402/186623879-7b5407bc-36ff-4471-8788-2d3c6976a064.PNG)
 
 #### That's it.
 You can use it however you want.
